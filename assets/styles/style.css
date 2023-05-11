@@ -1,0 +1,22 @@
+/* 
+- Selectores por etiqueta
+- Selectores por clase
+- Selectores por id´s 
+
+NOTA: el id tiene mayor gerarquia que la clase
+
+Para poder seleccionar elementos por id´s, usamos el prefijo (antes del nombre del selector) el signo # (numeral)
+
+    para poder seleccionar elementos por clase, utilizamos el signo de . (punto)
+*/
+.ch27{
+    background-color: aquamarine;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 100px;
+}
+
+#kelly{
+    background-color: rgb(154, 116, 190);
+    font-family: Arial, Helvetica, sans-serif;
+    
+ }
